@@ -1,9 +1,0 @@
-
-
-Trabalho visualização 
-
-#tidytuesday de 08/10/2019
-
-International Powerlifting (IPF)
-
-https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-08
